@@ -1,0 +1,1 @@
+This Authentication template was based on Brad Traversy's YouTube Channel. You can watch the tutorial here: https://www.youtube.com/watch?v=6FOq4cUdH8k&t=2349s
